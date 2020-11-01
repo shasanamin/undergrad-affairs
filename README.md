@@ -18,10 +18,10 @@ A Python implementation of wall-following robots, which are expected to become b
 A Python implementation (replication and extension) of [this paper](https://arxiv.org/pdf/2003.07912.pdf), which sought to predict eventual cumulative deaths due to COVID-19 as well as when will it come to an end in Italy, through logistic modeling of growth in cases. A framework is developed to extend the analysis to any country.
 
 ### [Sparse Representation-based Classifier](sparse-rep-classifier)
-A MATLAB implementation of Sparse Representation-based Classifier (SRC), using Orthogonal Matching Pursuit to solve the P0 problem.
+A MATLAB implementation of the Sparse Representation-based Classifier (SRC), using Orthogonal Matching Pursuit to solve the P0 problem.
 
 ### [Talking Tom Trampoline](talking-tom-trampoline)
-A C implementation of PIC microcontroller game with LED matrix, where an object (Tom) increases speed on each bounce off a moving board (trampoline).
+A C implementation of a PIC microcontroller game with LED matrix, where an object (Tom) increases speed on each bounce off a moving board (trampoline).
 
 ### [Text Justification](justify)
 A Haskell implementation of text justification, which is a common type of text alignment where spaces between words are stretched or compressed to align both ends of each line of text.
